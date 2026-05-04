@@ -1,38 +1,28 @@
 <div align="center">
   
   <!-- Animated Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=👋+Welcome+to+My+Portfolio;Full-Stack+%26+Cloud+Engineer;Building+Scalable+Systems;Let's+Create+Something+Awesome!" alt="Animated Banner">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full-Stack+%26+Cloud+Engineer;Building+Scalable+Systems" alt="Animated Banner">
 
   <br/>
 
-  <!-- Professional Badges -->
-  <div>
-    <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="Full Stack">
-    <img src="https://img.shields.io/badge/Microservices-Architecture-brightgreen?style=for-the-badge&logo=spring&logoColor=white" alt="Microservices">
-    <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-    <img src="https://img.shields.io/badge/Data-Engineering-purple?style=for-the-badge&logo=python&logoColor=white" alt="Data">
-  </div>
+  <!-- Skill Badges -->
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="Full Stack">
+  <img src="https://img.shields.io/badge/Microservices-Architecture-brightgreen?style=for-the-badge&logo=spring&logoColor=white" alt="Microservices">
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Data-Engineering-purple?style=for-the-badge&logo=python&logoColor=white" alt="Data">
 
-  <br/>
+  <br/><br/>
 
-  <!-- Contact Badges with Animation -->
-  <div>
-    <a href="https://linkedin.com/in/shaik-adeeb">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:shaikadeeb58@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://github.com/Adeeb58">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <img src="https://img.shields.io/badge/Phone-+91%209032079819-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
-  </div>
-
-  <br/>
-
-  <!-- Professional Divider -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%">
+  <!-- Contact Links -->
+  <a href="https://linkedin.com/in/shaik-adeeb">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:shaikadeeb58@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Adeeb58">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 
 </div>
 
@@ -46,17 +36,9 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212828280-76e3d1f4-6034-4269-9f59-8f2a3e2f5ee7.gif">
+Computer Science graduate passionate about building **scalable, production-ready systems**. Specialized in full-stack development, microservices architecture, and cloud infrastructure. I turn complex problems into elegant solutions using modern tech stacks.
 
-Computer Science graduate passionate about building **scalable, production-ready systems**. Specialized in full-stack development, microservices architecture, and cloud infrastructure. Strong foundation in data engineering, DevOps practices, and system design.
-
-I turn complex problems into elegant, maintainable solutions using modern tech stacks.
-
-**Current Focus:** Backend Systems, Distributed Architectures, Data Engineering
-
-<br>
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%">
+**Focus:** Backend Systems | Distributed Architectures | Data Engineering
 
 ### 1️⃣ **Find Your Product (FYP)** — Location-Based Discovery Platform
 *🎨 Full-Stack MERN Application*
