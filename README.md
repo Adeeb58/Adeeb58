@@ -127,14 +127,6 @@ Lovely Professional University, Punjab | CGPA: 7.2 | Aug 2022 – Present
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adeeb58&theme=tokyonight&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeeb58&theme=tokyonight&layout=compact)
-
----
-
 ## 💼 Looking For
 
 **Roles:** Junior Backend Engineer | Junior Data Engineer | Full-Stack Developer | DevOps Engineer
